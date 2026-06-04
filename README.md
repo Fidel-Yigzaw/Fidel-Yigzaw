@@ -1,7 +1,7 @@
 <h1 align="center">Hi!, I'm Fidel</h1>
 <h3 align="center">I like writing code</h3>
 
-- 🌱 I’m currently learning **Rust, Asm**
+- 🌱 I’m currently learning **erlang**
 
 - 💬 Ask me about **Ruby and Nim**
 
